@@ -1,10 +1,9 @@
-[
-    {
-        "id": 31850,
-        "brand": "Arauca",
-        "model": "chery",
-        "color": "PINK",
-        "year": 2012,
-        "price": "9999999.00"
-    }
-]
+ {
+    "id": 31850,
+    "brand": "Arauca",
+    "model": "chery",
+    "color": "PINK",
+    "year": 2012,
+    "price": "9999999.00"
+ }
+
